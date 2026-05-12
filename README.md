@@ -21,7 +21,17 @@
 
 
 
+<a href="https://novuslabs.dev">
+<strong>Visita mi sitio oficial </strong>
+<br />
+<br />
+<br />
 
+<p>
+
+<img alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true">
+</a>
+</p>
 
 <br><br><br><br><br>
 
@@ -78,11 +88,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjair006/devjair006/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devjair006/devjair006/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devjair006/devjair006/pacman-output/breakout-contribution-graph.svg">
-</picture>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 ###
 
