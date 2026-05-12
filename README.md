@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="300" style="border-radius:50%" src="/yo.jpeg"  />
 
 ###
 
@@ -18,6 +18,12 @@
 </div>
 
 ###
+
+
+
+
+
+
 
 <h1 align="center">Un poco de las tecnologias que he utilizado.</h1>
 
