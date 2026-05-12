@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">Soy un desarrollador enfocado en crear soluciones prácticas mientras aprendo y experimento con distintas tecnologías. Tengo experiencia trabajando con Python, C, Java, Flutter y desarrollo web, además de interés en lógica digital y gráficos computacionales.<br><br>Me gusta construir aplicaciones desde cero, especialmente sistemas administrativos, interfaces móviles y proyectos relacionados con renderizado y programación gráfica. También disfruto entender cómo funcionan las cosas a bajo nivel, desde estructuras de datos hasta hardware.<br><br>Actualmente trabajo en proyectos como sistemas de inventario, apps móviles para gestión de negocios y aplicaciones con interfaces personalizadas, mientras continúo explorando herramientas modernas de desarrollo y optimización.</h5>
+<h5 align="left"><strong>Soy un desarrollador enfocado en crear soluciones prácticas mientras aprendo y experimento con distintas tecnologías. Tengo experiencia trabajando con Python, C, Java, Flutter y desarrollo web, además de interés en lógica digital y gráficos computacionales.<br><br>Me gusta construir aplicaciones desde cero, especialmente sistemas administrativos, interfaces móviles y proyectos relacionados con renderizado y programación gráfica. También disfruto entender cómo funcionan las cosas a bajo nivel, desde estructuras de datos hasta hardware.<br><br>Actualmente trabajo en proyectos como sistemas de inventario, apps móviles para gestión de negocios y aplicaciones con interfaces personalizadas, mientras continúo explorando herramientas modernas de desarrollo y optimización.</strong>strong</h5>
 
 ###
 
@@ -20,7 +20,7 @@
 ###
 
 
-
+<div align="center">
 <a href="https://novuslabs.dev">
 <strong>Visita mi sitio oficial </strong>
 <br />
@@ -32,8 +32,9 @@
 <img alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true">
 </a>
 </p>
+</div>
 
-<br><br><br><br><br>
+<br><br><br>
 
 <h1 align="center">Un poco de las tecnologias que he utilizado.</h1>
 
