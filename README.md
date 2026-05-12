@@ -23,11 +23,12 @@
 
 
 
-
+<br><br><br><br><br>
 
 <h1 align="center">Un poco de las tecnologias que he utilizado.</h1>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
